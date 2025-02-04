@@ -33,6 +33,7 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * ACG.RIP
  * Anidex
  * AniLibria
+ * Anime Time
  * Anime Tosho
  * AniRena
  * AniSource
@@ -65,7 +66,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * ExtraTorrent.st
  * EZTV
  * FilmesHdTorrent
- * Frozen Layer
  * GamesTorrents
  * GkTorrent
  * GloDLS
@@ -115,7 +115,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * Sexy-Pics
  * Shana Project
  * ShowRSS
- * SimpleAnime
  * Solid Torrents
  * sosulki
  * SubsPlease
@@ -161,6 +160,7 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
 <details> <summary> <b> Supported Semi-Private Trackers </b> </summary>
 
  * AniDUB
+ * Anime Time (login)
  * AnimeLayer
  * ArenaBG
  * Best-Torrents [PAY2DL]
@@ -386,7 +386,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * HDFans
  * HDHome (HDBigger) [![(invite needed)][inviteneeded]](#)
  * HDKylin (麒麟)
- * HDPT (明教) [![(invite needed)][inviteneeded]](#)
  * HDRoute [![(invite needed)][inviteneeded]](#)
  * HDSky [![(invite needed)][inviteneeded]](#)
  * HDT-LaFenice
@@ -434,7 +433,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * Le-Cinephile
  * LearnBits
  * LearnFlakes
- * Leech24
  * LemonHD [![(invite needed)][inviteneeded]](#)
  * Lesbians4u
  * Libble
@@ -468,6 +466,7 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * NicePT
  * Nirvana
  * NorBits
+ * NordicQuality
  * Ntelogo
  * Nusanta(RA.RE)
  * OKPT
@@ -559,6 +558,7 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * The Crazy Ones
  * The Falling Angels (TFA)
  * The Geeks
+ * The Kitchen
  * The New Retro
  * The Occult
  * The Old School
@@ -570,7 +570,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * TheEmpire (TE)
  * TheLeachZone (TLZ)
  * ThePiratedShip
- * TJUPT (北洋园PT)
  * TLFBits [![(invite needed)][inviteneeded]](#)
  * TmGHuB [![(invite needed)][inviteneeded]](#)
  * Toca Share
@@ -664,17 +663,17 @@ t=book:
 Examples:
 
 ```
-.../api?apikey=APIKEY&t=search&cat=1,3&q=Show+Title+S01E02
+.../api?apikey=APIKEY&t=search&cat=100002,100003&q=Show+Title+S01E02
 
-.../api?apikey=APIKEY&t=tvsearch&cat=1,3&q=Show+Title&season=1&ep=2
-.../api?apikey=APIKEY&t=tvsearch&cat=1,3&genre=comedy&season=2023&ep=02/13
+.../api?apikey=APIKEY&t=tvsearch&cat=5000&q=Show+Title&season=1&ep=2
+.../api?apikey=APIKEY&t=tvsearch&cat=5040,5045&genre=comedy&season=2023&ep=02/13
 
-.../api?apikey=APIKEY&t=movie&cat=2&q=Movie+Title&year=2023
-.../api?apikey=APIKEY&t=movie&cat=2&imdbid=tt1234567
+.../api?apikey=APIKEY&t=movie&cat=100001&q=Movie+Title&year=2023
+.../api?apikey=APIKEY&t=movie&cat=5000&imdbid=tt1234567
 
-.../api?apikey=APIKEY&t=music&cat=4&album=Title&artist=Name
+.../api?apikey=APIKEY&t=music&cat=100004&album=Title&artist=Name
 
-.../api?apikey=APIKEY&t=book&cat=5,6&genre=horror&publisher=Stuff
+.../api?apikey=APIKEY&t=book&cat=100005,100006&genre=horror&publisher=Stuff
 ```
 
 ### Filter indexers
