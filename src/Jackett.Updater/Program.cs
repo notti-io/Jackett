@@ -254,6 +254,7 @@ namespace Jackett.Updater
                 "CurlSharp.dll",
                 "CurlSharp.pdb",
                 "Definitions/01torrent.yml",
+                "Definitions/2fast4you.yml",
                 "Definitions/2xfree.yml",
                 "Definitions/24rolika.yml",
                 "Definitions/32pages.yml",
@@ -457,6 +458,7 @@ namespace Jackett.Updater
                 "Definitions/hdme.yml",
                 "Definitions/hdmonkey.yml",
                 "Definitions/hdolimpo.yml", // migrated to UNIT3D API
+                "Definitions/hdonly.yml", // renamed to hdonly-api.yml #15856
                 "Definitions/hdplus.yml",
                 "Definitions/hdreactor.yml", // renamed to hdhouse
                 "Definitions/hdspain.yml",

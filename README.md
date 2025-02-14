@@ -235,7 +235,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
 
  * 0day.kiev
  * 1ptbar
- * 2 Fast 4 You [![(invite needed)][inviteneeded]](#)
  * 3ChangTrai (3CT) [![(invite needed)][inviteneeded]](#)
  * 3D Torrents (3DT)
  * 4thD (4th Dimension) [![(invite needed)][inviteneeded]](#)
@@ -514,6 +513,7 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * R3V WTF! [![(invite needed)][inviteneeded]](#)
  * Racing4Everyone (R4E)
  * RacingForMe (RFM)
+ * Rain
  * RareShare2
  * Red Leaves (红叶) [![(invite needed)][inviteneeded]](#)
  * Red Star Torrent (RST) [![(invite needed)][inviteneeded]](#)
@@ -669,7 +669,7 @@ Examples:
 .../api?apikey=APIKEY&t=tvsearch&cat=5040,5045&genre=comedy&season=2023&ep=02/13
 
 .../api?apikey=APIKEY&t=movie&cat=100001&q=Movie+Title&year=2023
-.../api?apikey=APIKEY&t=movie&cat=5000&imdbid=tt1234567
+.../api?apikey=APIKEY&t=movie&cat=2000&imdbid=tt1234567
 
 .../api?apikey=APIKEY&t=music&cat=100004&album=Title&artist=Name
 
