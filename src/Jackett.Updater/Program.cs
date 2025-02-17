@@ -634,6 +634,7 @@ namespace Jackett.Updater
                 "Definitions/sdbits.yml",
                 "Definitions/sdkino.yml",
                 "Definitions/secretcinema.yml", // migrated to C# gazelle base tracker
+                "Definitions/seedoff.yml",
                 "Definitions/seedpeer.yml",
                 "Definitions/sexxi.yml",
                 "Definitions/shadowflow.yml",
@@ -694,7 +695,6 @@ namespace Jackett.Updater
                 "Definitions/thorsland.yml",
                 "Definitions/tigers-dl.yml",
                 "Definitions/tjangto.yml",
-                "Definitions/tjupt.yml",
                 "Definitions/tntfork.yml",
                 "Definitions/tntvillage.yml",
                 "Definitions/toonsforme.yml",
