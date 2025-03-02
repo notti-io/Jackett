@@ -20,9 +20,12 @@ The software implements the [Torznab](https://torznab.github.io/spec-1.3-draft/i
 A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](https://github.com/webtor-io/go-jackett)
 
 #### Supported Systems
+The currently supported version of Jackett is 0.22.+, which is compatible with the following OS:
 * Windows 10 Version 1607+ or greater [supported operating systems here](https://github.com/dotnet/core/blob/main/release-notes/8.0/supported-os.md#windows)
 * Linux [supported operating systems here](https://github.com/dotnet/core/blob/main/release-notes/8.0/supported-os.md#linux)
 * macOS 13.0+ (Ventura) or greater [supported operating systems here](https://github.com/dotnet/core/blob/main/release-notes/8.0/supported-os.md#macos)
+
+Prior versions of Jackett are no longer supported.
 
 #### Supported Trackers
 <details> <summary> <b> Supported Public Trackers </b> </summary>
@@ -67,7 +70,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * EZTV
  * FilmesHdTorrent
  * GamesTorrents
- * GkTorrent
  * GloDLS
  * GTorrent.pro
  * Idope
@@ -95,6 +97,7 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * Newstudio
  * Nipponsei
  * NoNaMe Club (NNM-Club)
+ * NorTorrent
  * Nyaa.si
  * NyaaPantsu
  * OneJAV
@@ -102,6 +105,7 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * OxTorrent-vip
  * OpenSharing
  * PC-torrent
+ * plugintorrent
  * PornoTorrent
  * PornRips
  * Postman
@@ -128,7 +132,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * torrent.by
  * torrent-pirat
  * Torrent9
- * Torrent9-tel
  * TorrentFunk
  * TorrentDosFilmes
  * TorrentDownload
@@ -138,6 +141,7 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * TorrentQQ (토렌트큐큐)
  * Torrents.csv
  * TorrentSir (토렌트썰)
+ * torrentssg (토렌트쓱)
  * TorrentView (토렌트뷰)
  * Torrentz2nz
  * TrahT
@@ -154,6 +158,7 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * YourBittorrent
  * YTS.ag
  * zetorrents
+ * ZkTorrent
 </details>
 
 <details> <summary> <b> Supported Semi-Private Trackers </b> </summary>
@@ -328,7 +333,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * DiscFan [![(invite needed)][inviteneeded]](#)
  * DivTeam
  * DocsPedia
- * Dream Tracker [![(invite needed)][inviteneeded]](#)
  * Drugari
  * Ebooks-Shares [![(invite needed)][inviteneeded]](#)
  * Empornium (EMP) [![(invite needed)][inviteneeded]](#)
@@ -405,7 +409,7 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * ImmortalSeed (iS)
  * Immortuos
  * Indietorrents [![(invite needed)][inviteneeded]](#)
- * INFINITY
+ * INFINITY [![(invite needed)][inviteneeded]](#)
  * Infire
  * Insane Tracker
  * IPTorrents (IPT)
@@ -439,7 +443,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * Locadora
  * LosslessClub [![(invite needed)][inviteneeded]](#)
  * LST
- * LustHive
  * M-Team TP (MTTP) [![(invite needed)][inviteneeded]](#)
  * MaDs Revolution
  * Majomparádé (TurkDepo)
@@ -553,7 +556,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * TeamHD
  * TeamOS
  * TEKNO3D [![(invite needed)][inviteneeded]](#)
- * teracod (Movie Zone)
  * The Crazy Ones
  * The Falling Angels (TFA)
  * The Geeks

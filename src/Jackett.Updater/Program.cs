@@ -375,6 +375,7 @@ namespace Jackett.Updater
                 "Definitions/dragonworld.yml",
                 "Definitions/dragonworldreloaded.yml",
                 "Definitions/dreamteam.yml",
+                "Definitions/dreamtracker.yml",
                 "Definitions/dxdhd.yml",
                 "Definitions/ebookparadijs.yml",
                 "Definitions/efectodoppler.yml",
@@ -429,6 +430,7 @@ namespace Jackett.Updater
                 "Definitions/gdf76.yml",
                 "Definitions/generationfree.yml", // switch to unit3d api #12982
                 "Definitions/gfxnews.yml",
+                "Definitions/gktorrent.yml", // renamed to zktorrent #15399
                 "Definitions/gods.yml",
                 "Definitions/goodtracker.yml",
                 "Definitions/gormogon.yml",
@@ -516,6 +518,7 @@ namespace Jackett.Updater
                 "Definitions/lightning-tor.yml",
                 "Definitions/lilleskyorg.yml",
                 "Definitions/limetorrentsclone.yml",
+                "Definitions/lusthive.yml",
                 "Definitions/mactorrents.yml",
                 "Definitions/magicheaven.yml",
                 "Definitions/magico.yml", // renamed to trellas
@@ -674,6 +677,7 @@ namespace Jackett.Updater
                 "Definitions/tellytorrent.yml", // switch to *-API #8682
                 "Definitions/tellytorrent-api.yml",
                 "Definitions/tenyardtracker.yml", // to be migrated to c#, #795
+                "Definitions/teracod.yml", // closed, users can choose to merge with existing huntorrent #9743
                 "Definitions/tfile.yml",
                 "Definitions/tgay.yml",
                 "Definitions/theaudioscene.yml",
@@ -701,6 +705,7 @@ namespace Jackett.Updater
                 "Definitions/topnow.yml",
                 "Definitions/torlook.yml",
                 "Definitions/toros.yml", // renamed to bulltorrent
+                "Definitions/torrent9-tel.yml", // renamed to NorTorrent #15217
                 "Definitions/torrent911.yml", // renamed to oxtorrent-vip #15411
                 "Definitions/torrent9clone.yml", // renamed to torrent9-tel #15217
                 "Definitions/torrent-paradise-ml.yml",
