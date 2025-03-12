@@ -140,8 +140,9 @@ Prior versions of Jackett are no longer supported.
  * TorrentQQ (토렌트큐큐)
  * Torrents.csv
  * TorrentSir (토렌트썰)
+ * Torrentsome (토렌트썸)
  * torrentssg (토렌트쓱)
- * Torrenttip
+ * Torrenttip (토렌트팁)
  * Torrentz2nz
  * TrahT
  * truPornolabs
@@ -382,6 +383,7 @@ Prior versions of Jackett are no longer supported.
  * HD-UNiT3D
  * HDArea (HDA)
  * HDAtmos
+ * HDBao
  * HDBits [![(invite needed)][inviteneeded]](#)
  * HDCiTY (HDC) [![(invite needed)][inviteneeded]](#)
  * HDClone
@@ -435,6 +437,7 @@ Prior versions of Jackett are no longer supported.
  * Le-Cinephile
  * LearnBits
  * LearnFlakes
+ * Leech24
  * LemonHD [![(invite needed)][inviteneeded]](#)
  * Lesbians4u
  * Libble
@@ -486,6 +489,7 @@ Prior versions of Jackett are no longer supported.
  * PassThePopcorn (PTP) [![(invite needed)][inviteneeded]](#)
  * Peeratiko
  * Peers.FM
+ * Phoenix Project [![(invite needed)][inviteneeded]](#)
  * PigNetwork (猪猪网)
  * PixelCove (Ultimate Gamer)
  * PiXELHD (PxHD) [![(invite needed)][inviteneeded]](#)
@@ -531,7 +535,7 @@ Prior versions of Jackett are no longer supported.
  * SAMARITANO
  * SATClubbing
  * SceneHD [![(invite needed)][inviteneeded]](#)
- * SceneRush
+ * SceneRush [![(invite needed)][inviteneeded]](#)
  * SceneTime
  * Secret Cinema
  * SeedFile
@@ -592,7 +596,6 @@ Prior versions of Jackett are no longer supported.
  * Torrenteros (TTR)
  * TorrentHR
  * Torrenting (TT)
- * Torrentland
  * TorrentLeech (TL)
  * TorrentLeech.pl [![(invite needed)][inviteneeded]](#)
  * TorrentSeeds (TS)
