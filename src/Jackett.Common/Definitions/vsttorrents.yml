@@ -48,12 +48,13 @@ search:
       selector: .entry-title > a
       attribute: href
     poster:
-      selector: img[data-src]
+      selector: .wp-post-image
       attribute: data-src
     description:
-      selector: .entry-excerpt > p
+      selector: .entry-summary
     date:
-      selector: .post-date
+      selector: time
+      attribute: datetime
     size:
       text: "512 MB"
     seeders:
