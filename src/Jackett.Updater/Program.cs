@@ -309,6 +309,7 @@ namespace Jackett.Updater
                 "Definitions/bitme.yml",
                 "Definitions/bitnova.yml",
                 "Definitions/bitofvalor.yml",
+                "Definitions/bitsearch.yml",
                 "Definitions/bitsexy.yml",
                 "Definitions/bitspyder.yml",
                 "Definitions/bitstream.yml",
@@ -403,6 +404,7 @@ namespace Jackett.Updater
                 "Definitions/extratorrent-it.yml",
                 "Definitions/extratorrentclone.yml",
                 "Definitions/extremetorrents.yml",
+                "Definitions/extremlymtorrents.yml",
                 "Definitions/fantasticheaven.yml",
                 "Definitions/fantastiko.yml",
                 "Definitions/fastscene.yml",
@@ -423,7 +425,6 @@ namespace Jackett.Updater
                 "Definitions/freedomhd.yml",
                 "Definitions/freetorrent.yml",
                 "Definitions/freshmeat.yml",
-                "Definitions/frozenlayer.yml",
                 "Definitions/fullmixmusic.yml",
                 "Definitions/funreleases.yml",
                 "Definitions/fusionmayhem.yml",
@@ -449,6 +450,7 @@ namespace Jackett.Updater
                 "Definitions/hd4fans.yml",
                 "Definitions/hd4free.yml",
                 "Definitions/hdai.yml",
+                "Definitions/hdatmos.yml",
                 "Definitions/hdbc.yml", // renamed to hdbitscom
                 "Definitions/hdbits.yml",
                 "Definitions/hdbitscom.yml",
@@ -470,6 +472,7 @@ namespace Jackett.Updater
                 "Definitions/hdstreet.yml",
                 "Definitions/hdpt.yml",
                 "Definitions/hdvbits.yml",
+                "Definitions/hdvideo.yml",
                 "Definitions/hdzone.yml", // renamed to hdfun
                 "Definitions/heavens-hell.yml",
                 "Definitions/hellastz.yml",
@@ -478,7 +481,6 @@ namespace Jackett.Updater
                 "Definitions/hon3yhd.yml",
                 "Definitions/horriblesubs.yml",
                 "Definitions/horrorsite.yml",
-                "Definitions/hqmusic.yml",
                 "Definitions/hqsource.yml",
                 "Definitions/hush.yml",
                 "Definitions/hyperay.yml",
@@ -490,6 +492,7 @@ namespace Jackett.Updater
                 "Definitions/iloveclassics.yml",
                 "Definitions/infinityt.yml",
                 "Definitions/inperil.yml",
+                "Definitions/irishtv.yml",
                 "Definitions/isohunt.yml",
                 "Definitions/iv-torrents.yml",
                 "Definitions/jme-reunit3d.yml", // switch to -API #13043
@@ -579,6 +582,7 @@ namespace Jackett.Updater
                 "Definitions/onlyscene.yml",
                 "Definitions/oxtorrent.yml",
                 "Definitions/p2pelite.yml",
+                "Definitions/pandahd.yml",
                 "Definitions/parnuxi.yml",
                 "Definitions/partis.yml",
                 "Definitions/passionetorrent.yml",
@@ -614,6 +618,7 @@ namespace Jackett.Updater
                 "Definitions/racing4everyone.yml", // switch to *-API #12870 #8682
                 "Definitions/rapidetracker.yml",
                 "Definitions/rarbg.yml", // migrated to C#
+                "Definitions/rareshare2.yml",
                 "Definitions/redbits.yml", // switch to *-API #11540 #8682
                 "Definitions/redbits-api.yml",
                 "Definitions/redtopia.yml",
@@ -664,6 +669,7 @@ namespace Jackett.Updater
                 "Definitions/skytorrentsclone.yml", // renamed to skytorrents-lol
                 "Definitions/skytorrentsclone2.yml", // renamed to skytorrents-to
                 "Definitions/slosoul.yml",
+                "Definitions/solidtorrents.yml",
                 "Definitions/soundpark.yml",
                 "Definitions/spacetorrent.yml",
                 "Definitions/speed-share.yml",
@@ -719,6 +725,7 @@ namespace Jackett.Updater
                 "Definitions/torrentcouch.yml",
                 "Definitions/torrentdb.yml",
                 "Definitions/torrentfactory.yml",
+                "Definitions/torrentgalaxy.yml",
                 "Definitions/torrentgalaxyorg.yml", // renamed to torrentgalaxy
                 "Definitions/torrenthane.yml",
                 "Definitions/torrentkim.yml",
@@ -744,6 +751,7 @@ namespace Jackett.Updater
                 "Definitions/torrentwtf.yml",
                 "Definitions/torrentz2.yml",
                 "Definitions/torrentz2eu.yml",
+                "Definitions/torrentz2nz.yml",
                 "Definitions/torrentz2k.yml",
                 "Definitions/torrof.yml",
                 "Definitions/torviet.yml",
