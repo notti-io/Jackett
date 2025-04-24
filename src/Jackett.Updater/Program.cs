@@ -309,7 +309,6 @@ namespace Jackett.Updater
                 "Definitions/bitme.yml",
                 "Definitions/bitnova.yml",
                 "Definitions/bitofvalor.yml",
-                "Definitions/bitsearch.yml",
                 "Definitions/bitsexy.yml",
                 "Definitions/bitspyder.yml",
                 "Definitions/bitstream.yml",
@@ -669,7 +668,7 @@ namespace Jackett.Updater
                 "Definitions/skytorrentsclone.yml", // renamed to skytorrents-lol
                 "Definitions/skytorrentsclone2.yml", // renamed to skytorrents-to
                 "Definitions/slosoul.yml",
-                "Definitions/solidtorrents.yml",
+                "Definitions/solidtorrents.yml", // merged with bitsearch
                 "Definitions/soundpark.yml",
                 "Definitions/spacetorrent.yml",
                 "Definitions/speed-share.yml",
@@ -725,6 +724,7 @@ namespace Jackett.Updater
                 "Definitions/torrentcouch.yml",
                 "Definitions/torrentdb.yml",
                 "Definitions/torrentfactory.yml",
+                "Definitions/torrentfunk.yml",
                 "Definitions/torrentgalaxy.yml",
                 "Definitions/torrentgalaxyorg.yml", // renamed to torrentgalaxy
                 "Definitions/torrenthane.yml",

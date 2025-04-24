@@ -46,6 +46,7 @@ Prior versions of Jackett are no longer supported.
  * Bangumi Moe
  * BigFANGroup
  * BitRu
+ * BitSearch (Solid Torrents)
  * BluDV
  * BlueRoms
  * BT.etree
@@ -130,7 +131,6 @@ Prior versions of Jackett are no longer supported.
  * torrent.by
  * torrent-pirat
  * Torrent9
- * TorrentFunk
  * TorrentDosFilmes
  * TorrentDownload
  * TorrentKitty
