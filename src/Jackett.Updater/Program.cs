@@ -389,6 +389,7 @@ namespace Jackett.Updater
                 "Definitions/elittracker.yml",
                 "Definitions/emmidtracker.yml",
                 "Definitions/emtrek.yml",
+                "Definitions/enthralled.yml",
                 "Definitions/eotforum.yml",
                 "Definitions/epizod.yml",
                 "Definitions/erzsebet.yml",
@@ -512,6 +513,7 @@ namespace Jackett.Updater
                 "Definitions/lat-team.yml", // switch to *-API #8682
                 "Definitions/latinop2p.yml",
                 "Definitions/leaguehd.yml", // renamed to lemonhd
+                "Definitions/learnbits.yml",
                 "Definitions/lechaudron.yml",
                 "Definitions/leech24-api.yml",
                 "Definitions/legacyhd.yml", // renamed to realflix
@@ -522,6 +524,7 @@ namespace Jackett.Updater
                 "Definitions/leporno.yml",
                 "Definitions/liaorencili.yml", // renamed to cilipro
                 "Definitions/lightning-tor.yml",
+                "Definitions/libronube.yml",
                 "Definitions/lilleskyorg.yml",
                 "Definitions/limetorrentsclone.yml",
                 "Definitions/lusthive.yml",
@@ -631,6 +634,7 @@ namespace Jackett.Updater
                 "Definitions/rockhardlossless.yml",
                 "Definitions/rodvd.yml",
                 "Definitions/rofd.yml",
+                "Definitions/rotorrent.yml",
                 "Definitions/rptorrents.yml",
                 "Definitions/rptorrents-api.yml", // renamed to rptscene-api
                 "Definitions/rptscene.yml",
@@ -738,7 +742,8 @@ namespace Jackett.Updater
                 "Definitions/torrentrex.yml",
                 "Definitions/torrentsectorcrew.yml",
                 "Definitions/torrentseed.yml", // renamed to latinop2p #9065
-                "Definitions/torrentseeds.yml", // migrated to c#
+                "Definitions/torrentseeds.yml",
+                "Definitions/torrentseeds-api.yml",
                 "Definitions/torrentsmd.yml",
                 "Definitions/torrent-town.yml",
                 "Definitions/torrentslocal.yml",

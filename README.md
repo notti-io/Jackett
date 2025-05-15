@@ -81,9 +81,7 @@ Prior versions of Jackett are no longer supported.
  * kickasstorrents.to
  * kickasstorrents.ws
  * Knaben
- * LAPUMiA
  * LePorno.info
- * Libronube
  * LimeTorrents
  * LinuxTracker
  * Mac Torrents Download
@@ -336,7 +334,6 @@ Prior versions of Jackett are no longer supported.
  * Ebooks-Shares [![(invite needed)][inviteneeded]](#)
  * Empornium (EMP) [![(invite needed)][inviteneeded]](#)
  * eMuwarez
- * Enthralled
  * eShareNet
  * eStone (BigTorrent)
  * Exitorrent.org [![(invite needed)][inviteneeded]](#)
@@ -431,12 +428,11 @@ Prior versions of Jackett are no longer supported.
  * Lat-Team
  * Le Saloon [![(invite needed)][inviteneeded]](#)
  * Le-Cinephile
- * LearnBits
  * LearnFlakes
  * Leech24
  * LemonHD [![(invite needed)][inviteneeded]](#)
  * Lesbians4u
- * LetSeed
+ * LetSeed [![(invite needed)][inviteneeded]](#)
  * Libble
  * LibraNet (LN)
  * LinkoManija
@@ -462,7 +458,7 @@ Prior versions of Jackett are no longer supported.
  * MouseBits
  * MyAnonamouse (MAM)
  * MySpleen [![(invite needed)][inviteneeded]](#)
- * NCore [![(invite needed)][inviteneeded]](#)
+ * NCore
  * Nebulance (NBL) (TransmiTheNet)
  * NewHeaven (TorrentHeavenResurrection) [![(invite needed)][inviteneeded]](#)
  * NicePT
@@ -482,6 +478,7 @@ Prior versions of Jackett are no longer supported.
  * OurBits (HDPter)
  * P2PBG
  * Panda
+ * ParabellumHD
  * Party-Tracker
  * PassThePopcorn (PTP) [![(invite needed)][inviteneeded]](#)
  * Peeratiko
@@ -528,7 +525,6 @@ Prior versions of Jackett are no longer supported.
  * RevolutionTT [![(invite needed)][inviteneeded]](#)
  * RocketHD
  * Romanian Metal Torrents (RMT)
- * RoTorrent
  * Rousi
  * SAMARITANO
  * SATClubbing
@@ -597,7 +593,6 @@ Prior versions of Jackett are no longer supported.
  * Torrenting (TT)
  * TorrentLeech (TL)
  * TorrentLeech.pl [![(invite needed)][inviteneeded]](#)
- * TorrentSeeds (TS)
  * ToTheGlory (TTG) [![(invite needed)][inviteneeded]](#)
  * TrackerMK
  * TranceTraffic
