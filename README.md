@@ -131,6 +131,7 @@ Prior versions of Jackett are no longer supported.
  * Torrent9
  * TorrentDosFilmes
  * TorrentDownload
+ * TorrentGalaxyClone
  * TorrentKitty
  * TorrentProject2
  * TorrentQQ (토렌트큐큐)
@@ -256,6 +257,7 @@ Prior versions of Jackett are no longer supported.
  * AnimeWorld (AW)
  * Anthelion (ANT)
  * Araba Fenice (Phoenix) [![(invite needed)][inviteneeded]](#)
+ * ArabicSource
  * ArabP2P
  * ArabTorrents [![(invite needed)][inviteneeded]](#)
  * AsianCinema
@@ -279,6 +281,7 @@ Prior versions of Jackett are no longer supported.
  * BitHUmen [![(invite needed)][inviteneeded]](#)
  * Bitpalace
  * BitPorn
+ * BitSexy
  * BitTorrentFiles
  * BiTTuRK
  * BJ-Share (BJ) [![(invite needed)][inviteneeded]](#)
@@ -422,7 +425,6 @@ Prior versions of Jackett are no longer supported.
  * KrazyZone
  * Kufei (库非)
  * Kufirc
- * LaidBackManor
  * Last Digital Underground (LDU)
  * LastFiles (LF)
  * Lat-Team
@@ -659,6 +661,8 @@ t=book:
    params  : q, title, author, publisher, year, genre
 ```
 
+Note that most indexers will only support a subset of these search modes and parameters, use the t=caps to get a list of the actual modes and parms supported by an indexer.
+
 Examples:
 
 ```
@@ -708,7 +712,7 @@ A special "all" indexer is available at `/api/v2.0/indexers/all/results/torznab`
 It will query all configured indexers and return the combined results.
 
 If your client supports multiple feeds it's recommended to add each indexer directly instead of using the "all" indexer.
-Using the "all" indexer has no advantages (besides reduced management overhead), the only disadvantages:
+Using the "all" indexer has no advantages (besides reduced management overhead), and there are many disadvantages:
 * you lose control over indexer specific settings (categories, search modes, etc.)
 * mixing search modes (IMDB, query, etc.) might cause low-quality results
 * indexer specific categories (>= 100000) can't be used.
